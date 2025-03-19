@@ -1,4 +1,6 @@
-# salt-kettle
+
+# salt-kettle![logo](https://github.com/user-attachments/assets/3b86e971-2721-4efe-bad4-6dc7d0b52976)
+
 creating a complete brand identity and marketing campaign for "Salt &amp; Kettle," a new snack brand targeting a youthful audience with original and low-fat chips.
 his project involves the creation of a comprehensive brand and marketing campaign for a new snack product brand, "Salt & Kettle." The project focuses on launching and promoting a range of chips targeted at a youthful audience aged 9-40, with two main products: Original Chips and Ferned Chips (low-fat variant). The tone of the campaign is youthful, appealing to a dynamic and trend-sensitive market.
 
