@@ -44,4 +44,3 @@ A Big Campaign
 Campaign Slogan
 Campaign Packaging
 12 Social Media Designs
-Website (if allowed)
